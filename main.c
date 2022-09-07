@@ -3,8 +3,10 @@
 int main ()
 {
 	int n;
+printf("AMIT_D388888");
 printf("AMIT_D38");
 scanf ("%d",&n);
+
 return 0;
 
 }    
